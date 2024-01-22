@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Audrick Cuadra</h1>
 <align="center">I'm a 2nd year BSCPE data science student from Technologcal Institute of the Philippines.</align="center">
 
-
+</p>
 - 📧 Contact me @**qazgcuadra@tip.edu.ph**
 
 
