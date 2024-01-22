@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Audrick Cuadra</h1>
 <h3 align="center">I'm a 2nd year BSCPE data science student.</h3>
 
-- 📫 How to reach me **qazgcuadra@tip.edu.ph**
+- 📧 Contact me @**qazgcuadra@tip.edu.ph**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
