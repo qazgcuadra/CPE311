@@ -1,1 +1,2 @@
-
+<h1 align="center">Summary of learnings:</h1>
+<align="center">The modules demonstrates techniques that utilizes different Python libraries for data analyzation. Data manipulation, cleaning, visualization are just few examples of what this module contains. It also showcases how important Data analysis is from the real world by using actual real world datas. Overall, the modules provides more than adequate learning experience of each different techniques of data manipulation and analysis which serves as a great step by step process for beginners.</align="center">
